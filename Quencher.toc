@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Quencher |cfff05cdc-Svarrog-|r
+## Notes: Tracks Rune of the Firelord douses in Molten Core per raid ID. Fork of Tattler. Requires SuperWoW; HearthDB optional (SQLite history).
+## Author: Svarrog
+## Version: 1.0
+## SavedVariables: QuencherDB
+Quencher.lua
